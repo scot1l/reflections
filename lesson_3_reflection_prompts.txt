@@ -1,3 +1,5 @@
 when i want to co-work with others i will use remote version control system.
 
 when i need clone somebody's repository to my github i will use fork;when i want to clone a github repository to my local directory i will use clone; branch is used when i commit a new version and want it seperates to my master version;
+
+拥有远程分支的上次已知状态的副本（存储在本地）有何好处？
